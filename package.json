@@ -1,0 +1,15 @@
+{
+  "name": "projeto-prisma",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.19.1",
+    "express": "^4.17.1",
+    "prisma": "^5.19.1",
+    "yarn": "^1.22.21"
+  }
+}
